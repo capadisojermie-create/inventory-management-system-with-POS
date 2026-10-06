@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|c:\\users\\sure\\onedrive\\inventory management system with pos\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|solutionrelative:frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BA7E3A3-8BFB-4980-931A-0C08E78A3793}|inventory management system with POS.csproj|solutionrelative:frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "frmDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.Designer.cs",
+              "RelativeToolTip": "frmDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:50:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "frmDashboard.cs",
+              "ToolTip": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.cs",
+              "RelativeToolTip": "frmDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:50:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "frmDashboard.cs",
+              "ToolTip": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:50:27.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmAccount.cs",
+              "RelativeDocumentMoniker": "frmAccount.cs",
+              "ToolTip": "C:\\Users\\SURE\\OneDrive\\inventory management system with POS\\frmAccount.cs [Design]",
+              "RelativeToolTip": "frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:50:23.959Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
